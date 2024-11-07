@@ -1,0 +1,12 @@
+---
+:id: 202780188
+:submitters:
+- :name: Dylan Phan
+  :email: dylanp@csu.fullerton.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-15 18:38:02.598861000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-15 11:38:02.598861000 Z
+:status: processed
+:score: 0.0
